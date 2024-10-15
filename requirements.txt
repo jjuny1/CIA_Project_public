@@ -1,0 +1,35 @@
+# The following packages are required
+requests>=2.0.0
+beautifulsoup4>=4.6.0
+mysql-connector-python>=8.0.0
+transformers>=4.0.0
+tensorflow>=2.0.0
+torch>=1.0.0
+keras>=2.0.0
+scikit-learn>=0.24.0
+numpy>=1.18.0
+telethon>=1.36.0
+pandas>=2.2.2
+openpyxl>=3.1.5
+vobject>=0.9.8
+huggingface_hub>=0.11.0
+lxml
+html5lib
+chromedriver_autoinstaller
+selenium
+tqdm
+rich
+emoji
+Pillow
+ascii-magic
+pyfiglet
+pywhatkit
+
+# These may be already installed with python
+# sqlite3
+# os
+# json
+# datetime
+# time
+# re
+# asyncio
